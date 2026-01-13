@@ -1,0 +1,3 @@
+# PowXN
+
+LeetCode Problem

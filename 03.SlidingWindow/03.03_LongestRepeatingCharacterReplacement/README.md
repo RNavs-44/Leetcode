@@ -1,0 +1,3 @@
+# LongestRepeatingCharacterReplacement
+
+LeetCode Problem

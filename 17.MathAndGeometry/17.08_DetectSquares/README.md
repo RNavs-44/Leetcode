@@ -1,0 +1,3 @@
+# DetectSquares
+
+LeetCode Problem

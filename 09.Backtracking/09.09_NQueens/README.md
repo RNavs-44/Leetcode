@@ -1,0 +1,3 @@
+# NQueens
+
+LeetCode Problem
