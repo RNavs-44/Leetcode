@@ -1,0 +1,1052 @@
+[
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.01_ContainsDuplicate",
+    "name": "ContainsDuplicate",
+    "leetcode_num": 217,
+    "readme_path": "01.ArraysAndHashing/01.01_ContainsDuplicate/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.02_ValidAnagram",
+    "name": "ValidAnagram",
+    "leetcode_num": 242,
+    "readme_path": "01.ArraysAndHashing/01.02_ValidAnagram/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.03_TwoSum",
+    "name": "TwoSum",
+    "leetcode_num": 1,
+    "readme_path": "01.ArraysAndHashing/01.03_TwoSum/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.04_GroupAnagrams",
+    "name": "GroupAnagrams",
+    "leetcode_num": 49,
+    "readme_path": "01.ArraysAndHashing/01.04_GroupAnagrams/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.05_TopKFrequentElements",
+    "name": "TopKFrequentElements",
+    "leetcode_num": 347,
+    "readme_path": "01.ArraysAndHashing/01.05_TopKFrequentElements/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.06_EncodeAndDecodeStrings",
+    "name": "EncodeAndDecodeStrings",
+    "leetcode_num": 271,
+    "readme_path": "01.ArraysAndHashing/01.06_EncodeAndDecodeStrings/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.07_ProductOfArrayExceptSelf",
+    "name": "ProductOfArrayExceptSelf",
+    "leetcode_num": 238,
+    "readme_path": "01.ArraysAndHashing/01.07_ProductOfArrayExceptSelf/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.08_ValidSudoku",
+    "name": "ValidSudoku",
+    "leetcode_num": 36,
+    "readme_path": "01.ArraysAndHashing/01.08_ValidSudoku/README.md"
+  },
+  {
+    "category": "01.ArraysAndHashing",
+    "folder": "01.09_LongestConsecutiveSequence",
+    "name": "LongestConsecutiveSequence",
+    "leetcode_num": 128,
+    "readme_path": "01.ArraysAndHashing/01.09_LongestConsecutiveSequence/README.md"
+  },
+  {
+    "category": "02.TwoPointers",
+    "folder": "02.01_ValidPalindrome",
+    "name": "ValidPalindrome",
+    "leetcode_num": 125,
+    "readme_path": "02.TwoPointers/02.01_ValidPalindrome/README.md"
+  },
+  {
+    "category": "02.TwoPointers",
+    "folder": "02.02_TwoSumIIInputArrayIsSorted",
+    "name": "TwoSumIIInputArrayIsSorted",
+    "leetcode_num": 167,
+    "readme_path": "02.TwoPointers/02.02_TwoSumIIInputArrayIsSorted/README.md"
+  },
+  {
+    "category": "02.TwoPointers",
+    "folder": "02.03_ThreeSum",
+    "name": "ThreeSum",
+    "leetcode_num": 15,
+    "readme_path": "02.TwoPointers/02.03_ThreeSum/README.md"
+  },
+  {
+    "category": "02.TwoPointers",
+    "folder": "02.04_ContainerWithMostWater",
+    "name": "ContainerWithMostWater",
+    "leetcode_num": 11,
+    "readme_path": "02.TwoPointers/02.04_ContainerWithMostWater/README.md"
+  },
+  {
+    "category": "02.TwoPointers",
+    "folder": "02.05_TrappingRainWater",
+    "name": "TrappingRainWater",
+    "leetcode_num": 42,
+    "readme_path": "02.TwoPointers/02.05_TrappingRainWater/README.md"
+  },
+  {
+    "category": "03.SlidingWindow",
+    "folder": "03.01_BestTimeToBuyAndSellStock",
+    "name": "BestTimeToBuyAndSellStock",
+    "leetcode_num": 121,
+    "readme_path": "03.SlidingWindow/03.01_BestTimeToBuyAndSellStock/README.md"
+  },
+  {
+    "category": "03.SlidingWindow",
+    "folder": "03.02_LongestSubstringWithoutRepeatingCharacters",
+    "name": "LongestSubstringWithoutRepeatingCharacters",
+    "leetcode_num": 3,
+    "readme_path": "03.SlidingWindow/03.02_LongestSubstringWithoutRepeatingCharacters/README.md"
+  },
+  {
+    "category": "03.SlidingWindow",
+    "folder": "03.03_LongestRepeatingCharacterReplacement",
+    "name": "LongestRepeatingCharacterReplacement",
+    "leetcode_num": 424,
+    "readme_path": "03.SlidingWindow/03.03_LongestRepeatingCharacterReplacement/README.md"
+  },
+  {
+    "category": "03.SlidingWindow",
+    "folder": "03.04_PermutationInString",
+    "name": "PermutationInString",
+    "leetcode_num": 567,
+    "readme_path": "03.SlidingWindow/03.04_PermutationInString/README.md"
+  },
+  {
+    "category": "03.SlidingWindow",
+    "folder": "03.05_MinimumWindowSubstring",
+    "name": "MinimumWindowSubstring",
+    "leetcode_num": 76,
+    "readme_path": "03.SlidingWindow/03.05_MinimumWindowSubstring/README.md"
+  },
+  {
+    "category": "03.SlidingWindow",
+    "folder": "03.06_SlidingWindowMaximum",
+    "name": "SlidingWindowMaximum",
+    "leetcode_num": 239,
+    "readme_path": "03.SlidingWindow/03.06_SlidingWindowMaximum/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.01_ValidParentheses",
+    "name": "ValidParentheses",
+    "leetcode_num": 20,
+    "readme_path": "04.Stack/04.01_ValidParentheses/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.02_MinStack",
+    "name": "MinStack",
+    "leetcode_num": 155,
+    "readme_path": "04.Stack/04.02_MinStack/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.03_EvaluateReversePolishNotation",
+    "name": "EvaluateReversePolishNotation",
+    "leetcode_num": 150,
+    "readme_path": "04.Stack/04.03_EvaluateReversePolishNotation/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.04_GenerateParentheses",
+    "name": "GenerateParentheses",
+    "leetcode_num": 22,
+    "readme_path": "04.Stack/04.04_GenerateParentheses/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.05_DailyTemperatures",
+    "name": "DailyTemperatures",
+    "leetcode_num": 739,
+    "readme_path": "04.Stack/04.05_DailyTemperatures/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.06_CarFleet",
+    "name": "CarFleet",
+    "leetcode_num": 853,
+    "readme_path": "04.Stack/04.06_CarFleet/README.md"
+  },
+  {
+    "category": "04.Stack",
+    "folder": "04.07_LargestRectangleInHistogram",
+    "name": "LargestRectangleInHistogram",
+    "leetcode_num": 84,
+    "readme_path": "04.Stack/04.07_LargestRectangleInHistogram/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.01_BinarySearch",
+    "name": "BinarySearch",
+    "leetcode_num": 704,
+    "readme_path": "05.BinarySearch/05.01_BinarySearch/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.02_SearchA2DMatrix",
+    "name": "SearchA2DMatrix",
+    "leetcode_num": 74,
+    "readme_path": "05.BinarySearch/05.02_SearchA2DMatrix/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.03_KokoEatingBananas",
+    "name": "KokoEatingBananas",
+    "leetcode_num": 875,
+    "readme_path": "05.BinarySearch/05.03_KokoEatingBananas/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.04_SearchInRotatedSortedArray",
+    "name": "SearchInRotatedSortedArray",
+    "leetcode_num": 33,
+    "readme_path": "05.BinarySearch/05.04_SearchInRotatedSortedArray/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.05_FindMinimumInRotatedSortedArray",
+    "name": "FindMinimumInRotatedSortedArray",
+    "leetcode_num": 153,
+    "readme_path": "05.BinarySearch/05.05_FindMinimumInRotatedSortedArray/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.06_TimeBasedKeyValueStore",
+    "name": "TimeBasedKeyValueStore",
+    "leetcode_num": 981,
+    "readme_path": "05.BinarySearch/05.06_TimeBasedKeyValueStore/README.md"
+  },
+  {
+    "category": "05.BinarySearch",
+    "folder": "05.07_MedianOfTwoSortedArrays",
+    "name": "MedianOfTwoSortedArrays",
+    "leetcode_num": 4,
+    "readme_path": "05.BinarySearch/05.07_MedianOfTwoSortedArrays/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.01_ReverseLinkedList",
+    "name": "ReverseLinkedList",
+    "leetcode_num": 206,
+    "readme_path": "06.LinkedList/06.01_ReverseLinkedList/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.02_MergeTwoSortedLists",
+    "name": "MergeTwoSortedLists",
+    "leetcode_num": 21,
+    "readme_path": "06.LinkedList/06.02_MergeTwoSortedLists/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.03_ReorderList",
+    "name": "ReorderList",
+    "leetcode_num": 143,
+    "readme_path": "06.LinkedList/06.03_ReorderList/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.04_RemoveNthNodeFromEndOfList",
+    "name": "RemoveNthNodeFromEndOfList",
+    "leetcode_num": 19,
+    "readme_path": "06.LinkedList/06.04_RemoveNthNodeFromEndOfList/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.05_CopyListWithRandomPointer",
+    "name": "CopyListWithRandomPointer",
+    "leetcode_num": 138,
+    "readme_path": "06.LinkedList/06.05_CopyListWithRandomPointer/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.06_AddTwoNumbers",
+    "name": "AddTwoNumbers",
+    "leetcode_num": 2,
+    "readme_path": "06.LinkedList/06.06_AddTwoNumbers/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.07_LinkedListCycle",
+    "name": "LinkedListCycle",
+    "leetcode_num": 141,
+    "readme_path": "06.LinkedList/06.07_LinkedListCycle/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.08_FindTheDuplicateNumber",
+    "name": "FindTheDuplicateNumber",
+    "leetcode_num": 287,
+    "readme_path": "06.LinkedList/06.08_FindTheDuplicateNumber/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.09_LRUCache",
+    "name": "LRUCache",
+    "leetcode_num": 146,
+    "readme_path": "06.LinkedList/06.09_LRUCache/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.10_MergeKSortedLists",
+    "name": "MergeKSortedLists",
+    "leetcode_num": 23,
+    "readme_path": "06.LinkedList/06.10_MergeKSortedLists/README.md"
+  },
+  {
+    "category": "06.LinkedList",
+    "folder": "06.11_ReverseNodesInKGroup",
+    "name": "ReverseNodesInKGroup",
+    "leetcode_num": 25,
+    "readme_path": "06.LinkedList/06.11_ReverseNodesInKGroup/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.01_InvertBinaryTree",
+    "name": "InvertBinaryTree",
+    "leetcode_num": 226,
+    "readme_path": "07.Trees/07.01_InvertBinaryTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.02_MaximumDepthOfBinaryTree",
+    "name": "MaximumDepthOfBinaryTree",
+    "leetcode_num": 104,
+    "readme_path": "07.Trees/07.02_MaximumDepthOfBinaryTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.03_DiameterOfBinaryTree",
+    "name": "DiameterOfBinaryTree",
+    "leetcode_num": 543,
+    "readme_path": "07.Trees/07.03_DiameterOfBinaryTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.04_BalancedBinaryTree",
+    "name": "BalancedBinaryTree",
+    "leetcode_num": 110,
+    "readme_path": "07.Trees/07.04_BalancedBinaryTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.05_SameTree",
+    "name": "SameTree",
+    "leetcode_num": 100,
+    "readme_path": "07.Trees/07.05_SameTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.06_SubtreeOfAnotherTree",
+    "name": "SubtreeOfAnotherTree",
+    "leetcode_num": 572,
+    "readme_path": "07.Trees/07.06_SubtreeOfAnotherTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.07_LowestCommonAncestorOfABinarySearchTree",
+    "name": "LowestCommonAncestorOfABinarySearchTree",
+    "leetcode_num": 235,
+    "readme_path": "07.Trees/07.07_LowestCommonAncestorOfABinarySearchTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.08_BinaryTreeLevelOrderTraversal",
+    "name": "BinaryTreeLevelOrderTraversal",
+    "leetcode_num": 102,
+    "readme_path": "07.Trees/07.08_BinaryTreeLevelOrderTraversal/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.09_BinaryTreeRightSideView",
+    "name": "BinaryTreeRightSideView",
+    "leetcode_num": 199,
+    "readme_path": "07.Trees/07.09_BinaryTreeRightSideView/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.10_CountGoodNodesInBinaryTree",
+    "name": "CountGoodNodesInBinaryTree",
+    "leetcode_num": 1448,
+    "readme_path": "07.Trees/07.10_CountGoodNodesInBinaryTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.11_ValidateBinarySearchTree",
+    "name": "ValidateBinarySearchTree",
+    "leetcode_num": 98,
+    "readme_path": "07.Trees/07.11_ValidateBinarySearchTree/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.12_KthSmallestElementInABST",
+    "name": "KthSmallestElementInABST",
+    "leetcode_num": 230,
+    "readme_path": "07.Trees/07.12_KthSmallestElementInABST/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.13_ConstructBinaryTreeFromPreorderAndInorderTraversal",
+    "name": "ConstructBinaryTreeFromPreorderAndInorderTraversal",
+    "leetcode_num": 105,
+    "readme_path": "07.Trees/07.13_ConstructBinaryTreeFromPreorderAndInorderTraversal/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.14_BinaryTreeMaximumPathSum",
+    "name": "BinaryTreeMaximumPathSum",
+    "leetcode_num": 124,
+    "readme_path": "07.Trees/07.14_BinaryTreeMaximumPathSum/README.md"
+  },
+  {
+    "category": "07.Trees",
+    "folder": "07.15_SerializeAndDeserializeBinaryTree",
+    "name": "SerializeAndDeserializeBinaryTree",
+    "leetcode_num": 297,
+    "readme_path": "07.Trees/07.15_SerializeAndDeserializeBinaryTree/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.01_KthLargestElementInAStream",
+    "name": "KthLargestElementInAStream",
+    "leetcode_num": 703,
+    "readme_path": "08.HeapPriorityQueue/08.01_KthLargestElementInAStream/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.02_LastStoneWeight",
+    "name": "LastStoneWeight",
+    "leetcode_num": 1046,
+    "readme_path": "08.HeapPriorityQueue/08.02_LastStoneWeight/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.03_KClosestPointsToOrigin",
+    "name": "KClosestPointsToOrigin",
+    "leetcode_num": 973,
+    "readme_path": "08.HeapPriorityQueue/08.03_KClosestPointsToOrigin/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.04_KthLargestElementInAnArray",
+    "name": "KthLargestElementInAnArray",
+    "leetcode_num": 215,
+    "readme_path": "08.HeapPriorityQueue/08.04_KthLargestElementInAnArray/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.05_TaskScheduler",
+    "name": "TaskScheduler",
+    "leetcode_num": 621,
+    "readme_path": "08.HeapPriorityQueue/08.05_TaskScheduler/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.06_DesignTwitter",
+    "name": "DesignTwitter",
+    "leetcode_num": 355,
+    "readme_path": "08.HeapPriorityQueue/08.06_DesignTwitter/README.md"
+  },
+  {
+    "category": "08.HeapPriorityQueue",
+    "folder": "08.07_FindMedianFromDataStream",
+    "name": "FindMedianFromDataStream",
+    "leetcode_num": 295,
+    "readme_path": "08.HeapPriorityQueue/08.07_FindMedianFromDataStream/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.01_Subsets",
+    "name": "Subsets",
+    "leetcode_num": 78,
+    "readme_path": "09.Backtracking/09.01_Subsets/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.02_CombinationSum",
+    "name": "CombinationSum",
+    "leetcode_num": 39,
+    "readme_path": "09.Backtracking/09.02_CombinationSum/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.03_Permutations",
+    "name": "Permutations",
+    "leetcode_num": 46,
+    "readme_path": "09.Backtracking/09.03_Permutations/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.04_SubsetsII",
+    "name": "SubsetsII",
+    "leetcode_num": 90,
+    "readme_path": "09.Backtracking/09.04_SubsetsII/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.05_CombinationSumII",
+    "name": "CombinationSumII",
+    "leetcode_num": 40,
+    "readme_path": "09.Backtracking/09.05_CombinationSumII/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.06_WordSearch",
+    "name": "WordSearch",
+    "leetcode_num": 79,
+    "readme_path": "09.Backtracking/09.06_WordSearch/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.07_PalindromePartitioning",
+    "name": "PalindromePartitioning",
+    "leetcode_num": 131,
+    "readme_path": "09.Backtracking/09.07_PalindromePartitioning/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.08_LetterCombinationsOfAPhoneNumber",
+    "name": "LetterCombinationsOfAPhoneNumber",
+    "leetcode_num": 17,
+    "readme_path": "09.Backtracking/09.08_LetterCombinationsOfAPhoneNumber/README.md"
+  },
+  {
+    "category": "09.Backtracking",
+    "folder": "09.09_NQueens",
+    "name": "NQueens",
+    "leetcode_num": 51,
+    "readme_path": "09.Backtracking/09.09_NQueens/README.md"
+  },
+  {
+    "category": "10.Tries",
+    "folder": "10.01_ImplementTriePrefixTree",
+    "name": "ImplementTriePrefixTree",
+    "leetcode_num": 208,
+    "readme_path": "10.Tries/10.01_ImplementTriePrefixTree/README.md"
+  },
+  {
+    "category": "10.Tries",
+    "folder": "10.02_DesignAddAndSearchWordsDataStructure",
+    "name": "DesignAddAndSearchWordsDataStructure",
+    "leetcode_num": 211,
+    "readme_path": "10.Tries/10.02_DesignAddAndSearchWordsDataStructure/README.md"
+  },
+  {
+    "category": "10.Tries",
+    "folder": "10.03_WordSearchII",
+    "name": "WordSearchII",
+    "leetcode_num": 212,
+    "readme_path": "10.Tries/10.03_WordSearchII/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.01_NumberOfIslands",
+    "name": "NumberOfIslands",
+    "leetcode_num": 200,
+    "readme_path": "11.Graphs/11.01_NumberOfIslands/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.02_CloneGraph",
+    "name": "CloneGraph",
+    "leetcode_num": 133,
+    "readme_path": "11.Graphs/11.02_CloneGraph/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.03_MaxAreaOfIsland",
+    "name": "MaxAreaOfIsland",
+    "leetcode_num": 695,
+    "readme_path": "11.Graphs/11.03_MaxAreaOfIsland/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.04_PacificAtlanticWaterFlow",
+    "name": "PacificAtlanticWaterFlow",
+    "leetcode_num": 417,
+    "readme_path": "11.Graphs/11.04_PacificAtlanticWaterFlow/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.05_SurroundedRegions",
+    "name": "SurroundedRegions",
+    "leetcode_num": 130,
+    "readme_path": "11.Graphs/11.05_SurroundedRegions/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.06_RottingOranges",
+    "name": "RottingOranges",
+    "leetcode_num": 994,
+    "readme_path": "11.Graphs/11.06_RottingOranges/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.07_WallsAndGates",
+    "name": "WallsAndGates",
+    "leetcode_num": 286,
+    "readme_path": "11.Graphs/11.07_WallsAndGates/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.08_CourseSchedule",
+    "name": "CourseSchedule",
+    "leetcode_num": 207,
+    "readme_path": "11.Graphs/11.08_CourseSchedule/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.09_CourseScheduleII",
+    "name": "CourseScheduleII",
+    "leetcode_num": 210,
+    "readme_path": "11.Graphs/11.09_CourseScheduleII/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.10_RedundantConnection",
+    "name": "RedundantConnection",
+    "leetcode_num": 684,
+    "readme_path": "11.Graphs/11.10_RedundantConnection/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.11_NumberOfConnectedComponentsInAnUndirectedGraph",
+    "name": "NumberOfConnectedComponentsInAnUndirectedGraph",
+    "leetcode_num": 323,
+    "readme_path": "11.Graphs/11.11_NumberOfConnectedComponentsInAnUndirectedGraph/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.12_GraphValidTree",
+    "name": "GraphValidTree",
+    "leetcode_num": 261,
+    "readme_path": "11.Graphs/11.12_GraphValidTree/README.md"
+  },
+  {
+    "category": "11.Graphs",
+    "folder": "11.13_WordLadder",
+    "name": "WordLadder",
+    "leetcode_num": 127,
+    "readme_path": "11.Graphs/11.13_WordLadder/README.md"
+  },
+  {
+    "category": "12.AdvancedGraphs",
+    "folder": "12.01_ReconstructItinerary",
+    "name": "ReconstructItinerary",
+    "leetcode_num": 332,
+    "readme_path": "12.AdvancedGraphs/12.01_ReconstructItinerary/README.md"
+  },
+  {
+    "category": "12.AdvancedGraphs",
+    "folder": "12.02_MinCostToConnectAllPoints",
+    "name": "MinCostToConnectAllPoints",
+    "leetcode_num": 1584,
+    "readme_path": "12.AdvancedGraphs/12.02_MinCostToConnectAllPoints/README.md"
+  },
+  {
+    "category": "12.AdvancedGraphs",
+    "folder": "12.03_NetworkDelayTime",
+    "name": "NetworkDelayTime",
+    "leetcode_num": 743,
+    "readme_path": "12.AdvancedGraphs/12.03_NetworkDelayTime/README.md"
+  },
+  {
+    "category": "12.AdvancedGraphs",
+    "folder": "12.04_SwimInRisingWater",
+    "name": "SwimInRisingWater",
+    "leetcode_num": 778,
+    "readme_path": "12.AdvancedGraphs/12.04_SwimInRisingWater/README.md"
+  },
+  {
+    "category": "12.AdvancedGraphs",
+    "folder": "12.05_AlienDictionary",
+    "name": "AlienDictionary",
+    "leetcode_num": 269,
+    "readme_path": "12.AdvancedGraphs/12.05_AlienDictionary/README.md"
+  },
+  {
+    "category": "12.AdvancedGraphs",
+    "folder": "12.06_CheapestFlightsWithinKStops",
+    "name": "CheapestFlightsWithinKStops",
+    "leetcode_num": 787,
+    "readme_path": "12.AdvancedGraphs/12.06_CheapestFlightsWithinKStops/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.01_ClimbingStairs",
+    "name": "ClimbingStairs",
+    "leetcode_num": 70,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.01_ClimbingStairs/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.02_MinCostClimbingStairs",
+    "name": "MinCostClimbingStairs",
+    "leetcode_num": 746,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.02_MinCostClimbingStairs/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.03_HouseRobber",
+    "name": "HouseRobber",
+    "leetcode_num": 198,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.03_HouseRobber/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.04_HouseRobberII",
+    "name": "HouseRobberII",
+    "leetcode_num": 213,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.04_HouseRobberII/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.05_LongestPalindromicSubstring",
+    "name": "LongestPalindromicSubstring",
+    "leetcode_num": 5,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.05_LongestPalindromicSubstring/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.06_PalindromicSubstrings",
+    "name": "PalindromicSubstrings",
+    "leetcode_num": 647,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.06_PalindromicSubstrings/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.07_DecodeWays",
+    "name": "DecodeWays",
+    "leetcode_num": 91,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.07_DecodeWays/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.08_CoinChange",
+    "name": "CoinChange",
+    "leetcode_num": 322,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.08_CoinChange/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.09_MaximumProductSubarray",
+    "name": "MaximumProductSubarray",
+    "leetcode_num": 152,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.09_MaximumProductSubarray/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.10_WordBreak",
+    "name": "WordBreak",
+    "leetcode_num": 139,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.10_WordBreak/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.11_LongestIncreasingSubsequence",
+    "name": "LongestIncreasingSubsequence",
+    "leetcode_num": 300,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.11_LongestIncreasingSubsequence/README.md"
+  },
+  {
+    "category": "13.OneDimensionalDynamicProgramming",
+    "folder": "13.12_PartitionEqualSubsetSum",
+    "name": "PartitionEqualSubsetSum",
+    "leetcode_num": 416,
+    "readme_path": "13.OneDimensionalDynamicProgramming/13.12_PartitionEqualSubsetSum/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.01_UniquePaths",
+    "name": "UniquePaths",
+    "leetcode_num": 62,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.01_UniquePaths/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.02_LongestCommonSubsequence",
+    "name": "LongestCommonSubsequence",
+    "leetcode_num": 1143,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.02_LongestCommonSubsequence/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.03_BestTimeToBuyAndSellStockWithCooldown",
+    "name": "BestTimeToBuyAndSellStockWithCooldown",
+    "leetcode_num": 309,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.03_BestTimeToBuyAndSellStockWithCooldown/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.04_CoinChangeII",
+    "name": "CoinChangeII",
+    "leetcode_num": 518,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.04_CoinChangeII/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.05_TargetSum",
+    "name": "TargetSum",
+    "leetcode_num": 494,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.05_TargetSum/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.06_InterleavingString",
+    "name": "InterleavingString",
+    "leetcode_num": 97,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.06_InterleavingString/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.07_LongestIncreasingPathInAMatrix",
+    "name": "LongestIncreasingPathInAMatrix",
+    "leetcode_num": 329,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.07_LongestIncreasingPathInAMatrix/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.08_DistinctSubsequences",
+    "name": "DistinctSubsequences",
+    "leetcode_num": 115,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.08_DistinctSubsequences/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.09_EditDistance",
+    "name": "EditDistance",
+    "leetcode_num": 72,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.09_EditDistance/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.10_BurstBalloons",
+    "name": "BurstBalloons",
+    "leetcode_num": 312,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.10_BurstBalloons/README.md"
+  },
+  {
+    "category": "14.TwoDimensionalDynamicProgramming",
+    "folder": "14.11_RegularExpressionMatching",
+    "name": "RegularExpressionMatching",
+    "leetcode_num": 10,
+    "readme_path": "14.TwoDimensionalDynamicProgramming/14.11_RegularExpressionMatching/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.01_MaximumSubarray",
+    "name": "MaximumSubarray",
+    "leetcode_num": 53,
+    "readme_path": "15.Greedy/15.01_MaximumSubarray/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.02_JumpGame",
+    "name": "JumpGame",
+    "leetcode_num": 55,
+    "readme_path": "15.Greedy/15.02_JumpGame/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.03_JumpGameII",
+    "name": "JumpGameII",
+    "leetcode_num": 45,
+    "readme_path": "15.Greedy/15.03_JumpGameII/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.04_GasStation",
+    "name": "GasStation",
+    "leetcode_num": 134,
+    "readme_path": "15.Greedy/15.04_GasStation/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.05_HandOfStraights",
+    "name": "HandOfStraights",
+    "leetcode_num": 846,
+    "readme_path": "15.Greedy/15.05_HandOfStraights/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.06_MergeTripletsToFormTargetTriplet",
+    "name": "MergeTripletsToFormTargetTriplet",
+    "leetcode_num": 1899,
+    "readme_path": "15.Greedy/15.06_MergeTripletsToFormTargetTriplet/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.07_PartitionLabels",
+    "name": "PartitionLabels",
+    "leetcode_num": 763,
+    "readme_path": "15.Greedy/15.07_PartitionLabels/README.md"
+  },
+  {
+    "category": "15.Greedy",
+    "folder": "15.08_ValidParenthesisString",
+    "name": "ValidParenthesisString",
+    "leetcode_num": 678,
+    "readme_path": "15.Greedy/15.08_ValidParenthesisString/README.md"
+  },
+  {
+    "category": "16.Intervals",
+    "folder": "16.01_InsertInterval",
+    "name": "InsertInterval",
+    "leetcode_num": 57,
+    "readme_path": "16.Intervals/16.01_InsertInterval/README.md"
+  },
+  {
+    "category": "16.Intervals",
+    "folder": "16.02_MergeIntervals",
+    "name": "MergeIntervals",
+    "leetcode_num": 56,
+    "readme_path": "16.Intervals/16.02_MergeIntervals/README.md"
+  },
+  {
+    "category": "16.Intervals",
+    "folder": "16.03_NonOverlappingIntervals",
+    "name": "NonOverlappingIntervals",
+    "leetcode_num": 435,
+    "readme_path": "16.Intervals/16.03_NonOverlappingIntervals/README.md"
+  },
+  {
+    "category": "16.Intervals",
+    "folder": "16.04_MeetingRooms",
+    "name": "MeetingRooms",
+    "leetcode_num": 252,
+    "readme_path": "16.Intervals/16.04_MeetingRooms/README.md"
+  },
+  {
+    "category": "16.Intervals",
+    "folder": "16.05_MeetingRoomsII",
+    "name": "MeetingRoomsII",
+    "leetcode_num": 253,
+    "readme_path": "16.Intervals/16.05_MeetingRoomsII/README.md"
+  },
+  {
+    "category": "16.Intervals",
+    "folder": "16.06_MinimumIntervalToIncludeEachQuery",
+    "name": "MinimumIntervalToIncludeEachQuery",
+    "leetcode_num": 1851,
+    "readme_path": "16.Intervals/16.06_MinimumIntervalToIncludeEachQuery/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.01_RotateImage",
+    "name": "RotateImage",
+    "leetcode_num": 48,
+    "readme_path": "17.MathAndGeometry/17.01_RotateImage/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.02_SpiralMatrix",
+    "name": "SpiralMatrix",
+    "leetcode_num": 54,
+    "readme_path": "17.MathAndGeometry/17.02_SpiralMatrix/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.03_SetMatrixZeroes",
+    "name": "SetMatrixZeroes",
+    "leetcode_num": 73,
+    "readme_path": "17.MathAndGeometry/17.03_SetMatrixZeroes/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.04_HappyNumber",
+    "name": "HappyNumber",
+    "leetcode_num": 202,
+    "readme_path": "17.MathAndGeometry/17.04_HappyNumber/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.05_PlusOne",
+    "name": "PlusOne",
+    "leetcode_num": 66,
+    "readme_path": "17.MathAndGeometry/17.05_PlusOne/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.06_PowXN",
+    "name": "PowXN",
+    "leetcode_num": 50,
+    "readme_path": "17.MathAndGeometry/17.06_PowXN/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.07_MultiplyStrings",
+    "name": "MultiplyStrings",
+    "leetcode_num": 43,
+    "readme_path": "17.MathAndGeometry/17.07_MultiplyStrings/README.md"
+  },
+  {
+    "category": "17.MathAndGeometry",
+    "folder": "17.08_DetectSquares",
+    "name": "DetectSquares",
+    "leetcode_num": 2013,
+    "readme_path": "17.MathAndGeometry/17.08_DetectSquares/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.01_SingleNumber",
+    "name": "SingleNumber",
+    "leetcode_num": 136,
+    "readme_path": "18.BitManipulation/18.01_SingleNumber/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.02_NumberOfOneBits",
+    "name": "NumberOfOneBits",
+    "leetcode_num": 191,
+    "readme_path": "18.BitManipulation/18.02_NumberOfOneBits/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.03_CountingBits",
+    "name": "CountingBits",
+    "leetcode_num": 338,
+    "readme_path": "18.BitManipulation/18.03_CountingBits/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.04_ReverseBits",
+    "name": "ReverseBits",
+    "leetcode_num": 190,
+    "readme_path": "18.BitManipulation/18.04_ReverseBits/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.05_MissingNumber",
+    "name": "MissingNumber",
+    "leetcode_num": 268,
+    "readme_path": "18.BitManipulation/18.05_MissingNumber/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.06_SumOfTwoIntegers",
+    "name": "SumOfTwoIntegers",
+    "leetcode_num": 371,
+    "readme_path": "18.BitManipulation/18.06_SumOfTwoIntegers/README.md"
+  },
+  {
+    "category": "18.BitManipulation",
+    "folder": "18.07_ReverseInteger",
+    "name": "ReverseInteger",
+    "leetcode_num": 7,
+    "readme_path": "18.BitManipulation/18.07_ReverseInteger/README.md"
+  }
+]
