@@ -63,8 +63,8 @@ class Solution4:
         
         count = [0] * 26
         for i in range(len(s)):
-            count[ord(s[i]) - ord['a']] += 1
-            count[ord(t[i]) - ord['a']] -= 1
+            count[ord(s[i]) - ord('a')] += 1
+            count[ord(t[i]) - ord('a')] -= 1
         for num in count:
             if num != 0:
                 return False

@@ -70,7 +70,7 @@ class Solution3:
         for i, n in enumerate(nums):
             complement = target - n
             if complement in indices and indices[complement] != i:
-                return [i, complement[i]]
+                return [i, indices[complement]]
         return []
 
 """
@@ -91,6 +91,6 @@ class Solution4:
         for i, n in enumerate(nums):
             complement = target - n
             if complement in indices and indices[complement] != i:
-                return [i, complement[i]]
+                return [i, indices[complement]]
             indices[n] = i
         return []
